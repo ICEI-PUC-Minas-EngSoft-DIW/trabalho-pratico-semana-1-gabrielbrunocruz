@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Gabriel bruno da Cruz
+Matricula: 897952
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Ispecao do navegador](images/inspeção%20do%20navegador.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Hello world Replit](images/hello_world_replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
